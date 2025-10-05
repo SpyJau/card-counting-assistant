@@ -18,4 +18,4 @@ Le script utilise une variable globale `count` et une fonction `cc(card)` qui me
 3. La fonction renverra la valeur actuelle du compteur et la décision du joueur.
 
 ## Auteur
-Suzanna J. (SpyJau)
+Suzanna J. 
